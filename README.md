@@ -1,4 +1,4 @@
-# tcverification
+# TC Verification
 Laravel package for Turkish ID number validation
 
 #INSTALL
