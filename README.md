@@ -1,7 +1,7 @@
 # TC Verification
 Laravel package for Turkish ID number validation
 
-#INSTALL
+# INSTALL
 
 Edit your composer
 ```
@@ -30,7 +30,7 @@ After installation complete edit your config/app.php
     ],
 ```
 
-#USAGE
+# USAGE
 
 On your controller
 ```
