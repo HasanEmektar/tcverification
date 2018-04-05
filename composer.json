@@ -1,0 +1,18 @@
+{
+    "name": "hasanemektar/tcverification",
+    "description": "TC verification",
+    "keywords": ["tc kimlik","tckn","tc","kimlik", "doğrulama","laravel","validation"],
+    "homepage": "https://github.com/HasanEmektar/tcverification",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hasan",
+            "email": "hasan.emektar@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "HasanEmektar\\tc\\": "src"
+        }
+    }
+}
